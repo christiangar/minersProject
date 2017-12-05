@@ -1,0 +1,14 @@
+canvas {
+  border: 2px;
+  border-style:solid;
+}
+
+body {
+  text-align: center;
+
+}
+
+#start-button {
+  display: block;
+  align-items;: center;
+}
